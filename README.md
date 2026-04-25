@@ -68,7 +68,7 @@ Successfully built a working automated IT Support Ticketing System that reflects
 
 ### Microsoft Forms – Ticket Submission Form
 
-![Forms Screenshot](./Screenshot%20(282).png)
+![Workflow Screenshot](./Screenshot%20(287).png)
 
 ### Power Automate – Workflow Automation
 
