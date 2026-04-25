@@ -68,18 +68,18 @@ Successfully built a working automated IT Support Ticketing System that reflects
 
 ### Microsoft Forms – Ticket Submission Form
 
-![Forms Screenshot](Screenshot (282).png)
+![Forms Screenshot](./Screenshot%20(282).png)
 
 ### Power Automate – Workflow Automation
 
-![Power Automate Screenshot](Screenshot (283).png)
+![Power Automate Screenshot](./Screenshot%20(283).png)
 
 ### Excel Dashboard – Ticket Tracking
 
-![Excel Screenshot](Screenshot (284).png)
+![Excel Screenshot](./Screenshot%20(284).png)
 
 ### Additional Workflow Screenshot
 
-![Workflow Screenshot](Screenshot (287).png)
+![Workflow Screenshot](./Screenshot%20(287).png)
 
 This project helped me better understand how technical problem-solving and business operations work together in modern IT environments.
