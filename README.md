@@ -61,4 +61,25 @@ Most importantly, it strengthened my understanding of project management, IT ope
 
 Successfully built a working automated IT Support Ticketing System that reflects real Service Desk operations and demonstrates practical experience in troubleshooting, process improvement, and support automation.
 
+
+---
+
+## Project Screenshots
+
+### Microsoft Forms – Ticket Submission Form
+
+![Forms Screenshot](Screenshot (282).png)
+
+### Power Automate – Workflow Automation
+
+![Power Automate Screenshot](Screenshot (283).png)
+
+### Excel Dashboard – Ticket Tracking
+
+![Excel Screenshot](Screenshot (284).png)
+
+### Additional Workflow Screenshot
+
+![Workflow Screenshot](Screenshot (287).png)
+
 This project helped me better understand how technical problem-solving and business operations work together in modern IT environments.
