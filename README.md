@@ -80,6 +80,6 @@ Successfully built a working automated IT Support Ticketing System that reflects
 
 ### Additional Workflow Screenshot
 
-![Workflow Screenshot](./Screenshot%20(287).png)
+![Forms Screenshot](./Screenshot%20(282).png)
 
 This project helped me better understand how technical problem-solving and business operations work together in modern IT environments.
